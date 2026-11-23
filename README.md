@@ -1,9 +1,10 @@
-Ksenia Prybylskaya,
-Bioinformatics student, 2 year
-Jagiellonian University
+- Ksenia Prybylskaya
+- Bioinformatics student, 2 year
+- Jagiellonian University
+
 23.11.2026
 
-This Homework Assignment 5 for BT4BR class.
+This is my Homework Assignment 5 for BT4BR class.
 # My Git Cheat Sheet
 
 AI statement: I used AI for citing purposes.
@@ -78,4 +79,4 @@ Use `git show` to show the contents of a single commit.
 
 1.  Perez-Riverol Y, Gatto L, Wang R, Sachsenberg T, Uszkoreit J, Leprevost FdV, et al. (2016) Ten Simple Rules for Taking Advantage of Git and GitHub. PLoS Comput Biol 12(7): e1004947. <https://doi.org/10.1371/journal.pcbi.1004947>
 2.  Git Project. (n.d.). Git glossary. Retrieved November 22, 2026, from <https://git-scm.com/docs/gitglossary>
-3.  ylla-lab. (2026). BT4BR course 2026, Jagiellonian University [GitHub repository]. GitHub. [https://github.com/ylla-lab/BT4BR\\\_2026](https://github.com/ylla-lab/BT4BR_2026){.uri}
+3.  ylla-lab. (2026). BT4BR course 2026, Jagiellonian University [GitHub repository]. GitHub. [https://github.com/ylla-lab/BT4BR\\\_2026](https://github.com/ylla-lab/BT4BR_2026)
